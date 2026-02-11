@@ -16,7 +16,7 @@
 # treatment groups identified in the nMDS to determine if groupings differed from each other. We adjusted the p-values for multiple comparisons
 # using the Bonferonni correction.
 
-setwd("C:/Users/will.fennie/Work/AFSC Research/Sablefish Exp/Sablefish/data")
+
 library(vegan)
 library(tidyverse)
 library(dplyr)
@@ -426,4 +426,5 @@ pairwise_comp_BH_no9B<-p.adjust(pairwise_p_Fed, method = "BH")
 
 
 # write.csv(pairwise_comp_BH_no9B, file = "NMDS pairwise comp_BH_no9B.csv")
+
 
