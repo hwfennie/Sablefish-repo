@@ -1,9 +1,6 @@
 #This version omits the 9C B rep from analyses
 
 #Script to analyze how larval sablefish morphometric characteristics vary with ontogeny, temperature, and feeding treatment.
-#Fist an NMDS was run to examine how morphometric characteristics grouped by life stage and temperature treatment.
-#Then a PERMANOVA was perfomed to look at statistical differences in 
-
 
 # We used non-metric dimensional scaling (nMDS) to assess whether larval sablefish morphological traits varied across temperature
 # and feeding treatments. Similar to previous analyses we used the mean value for each treatment tank on a given day; however, we
@@ -426,5 +423,6 @@ pairwise_comp_BH_no9B<-p.adjust(pairwise_p_Fed, method = "BH")
 
 
 # write.csv(pairwise_comp_BH_no9B, file = "NMDS pairwise comp_BH_no9B.csv")
+
 
 
