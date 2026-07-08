@@ -1,5 +1,5 @@
 # Sablefish-repo
-
+[![DOI](https://zenodo.org/badge/830171716.svg)](https://doi.org/10.5281/zenodo.21269843)
 ## Authors
 H. Will Fennie, Steve M. Porter, Kelia E. Axler, Brooke Snyder, Alison L. Deary
 
