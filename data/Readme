@@ -1,0 +1,8 @@
+#This folder contains the data files for the analyses in this manuscript.
+
+## Point of no return: DFI.df.rda
+## Length GAMM: mean_sf.length.df.analysis_int.rda
+## Weight GAMM: DFI.df.rda
+## Yolk Sac Area: morpho_dat.start_YS_Ellipse_mean.rda
+## NMDS/ PERMANOVA: mean_log_morpho_dat.start_YS_nona.rda, mean_log_morpho_matrix_YS.rda
+## Decision Tree: scores_mean_log_nmds_YS_no9B.rda
